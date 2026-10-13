@@ -28,4 +28,5 @@ Neste processo eu aprendi:
 O desafio **Halloween 2026** consiste em implementar implementar o modelo Spec Driven Development de ponta a ponta, criando apps completas com IA.
 
 ### Veja meu progresso no desafio
-https://github.com/VitorZolim/balta-desafio-2026-spec-driven-development
+- Desafio 1: https://github.com/VitorZolim/balta-desafio-2026-spec-driven-development
+- Desafio 2: https://github.com/VitorZolim/balta-desafio-halloween-2026-spec-driven-02
